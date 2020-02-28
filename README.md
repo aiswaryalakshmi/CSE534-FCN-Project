@@ -1,11 +1,5 @@
 Video Streaming Traffic Study in India
 CSE 534 Final Project Report
-Debasmita Basu
-Stony Brook ID# 112682239
-
-Aiswarya Lakshmi Renganathan
-Stony Brook ID# 112688118
-
 
 
 1.	Abstract:
